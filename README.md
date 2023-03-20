@@ -5,7 +5,8 @@ See full course: https://www.udemy.com/course/chatgpt-masterclass-a-complete-cha
 This was a fun and engaging course building business solutions using OpenAI API. After completing this course, I was impressed with bubble and decided to play around using ChatGPT and DALL-E. The HTTP triggers (completionAPI and imageAI) were called from Azure Function App.
 
 I created a simple slogan generator:
-![Slogan Generator Preview](https://user-images.githubusercontent.com/55467236/226379405-b3e09d45-9109-4ec3-8da9-2052fc53b71d.jpg)
+
+![Slogan Generator Preview](https://user-images.githubusercontent.com/55467236/226383862-3ee0c8a7-cdd0-4a8a-87eb-64f316c1449d.jpg)
 
 Using the following workflow:
 
